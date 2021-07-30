@@ -15,7 +15,7 @@ export default function Footer(props) {
             </div>
             <div className="pull-right">
                 <Filter {...{filter, changeFilter}}/>
-            </div>
+            </div>            
         </footer>
     );
 }
